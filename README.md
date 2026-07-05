@@ -1,0 +1,3 @@
+# ConsciousNext
+
+Initial project repository.
